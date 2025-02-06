@@ -1,4 +1,6 @@
-## Hi there 👋
+## I'm Emre Toğan.
+I'm a freshman at Bilkent.
+My department is Computer Science.
 
 <!--
 **emre-togan/emre-togan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
